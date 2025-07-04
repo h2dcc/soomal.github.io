@@ -1,6 +1,6 @@
-baseURL: "https://127.0.0.1:1313"
+baseURL: "https://soomal.cc"
 languageCode: "zh-CN"
-title: "Soomal"
+title: "Soomal 专注音频与影像"
 theme: "PaperMod"
 
 pagination:
