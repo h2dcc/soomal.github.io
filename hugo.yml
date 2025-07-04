@@ -26,7 +26,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: Soomal
   description: "Soomal 专注音频与影像"
   keywords: [音频, 影像, 评测]
   author: Soomal
@@ -99,13 +99,6 @@ params:
     Content: >
       - 本站为原Soomal.com网站备份
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/h2dcc/soomal.github.io"
-    - name: email
-      url: "mailto:mail@hyruo.com"
-
-
   analytics:
     google:
       SiteVerificationTag: ""
@@ -144,22 +137,18 @@ menu:
     - identifier: tags
       name: 🔖󠁾标签
       url: /tags/
-      weight: 2
+      weight: 3
     - identifier: categories
       name: 🗓️分类
       url: /categories/
-      weight: 3
+      weight: 2
     - identifier: search
       name: 🔍搜索
       url: /search/
-      weight: 3
+      weight: 4
     - identifier: about
       name: 🌐关于
       url: /about/
-      weight: 4
-    - identifier: github
-      name: GitHub
-      url: https://github.com/h2dcc/soomal.github.io
       weight: 5
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -184,8 +173,8 @@ privacy:
 
   twitter:
     disabled: false
-    enableDNT: true
-    simple: true
+    enableDNT: false
+    simple: false
 
   instagram:
     disabled: false
