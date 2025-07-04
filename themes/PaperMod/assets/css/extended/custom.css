@@ -1,0 +1,10 @@
+figure {
+  margin: 1rem 0;
+  text-align: center;
+}
+
+figcaption {
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
