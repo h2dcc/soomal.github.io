@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/doc/:id.htm",
+      "destination": "/posts/:id/",
+      "permanent": true
+    }
+  ]
+}
