@@ -97,7 +97,8 @@ params:
   homeInfoParams:
     Title: "Soomal 备份网站 \U0001F44B"
     Content: >
-      - 本站为原Soomal.com网站备份
+      - 本站为原 Soomal.com 网站备份。
+      - 如遇无法访问故障，可查看 [镜像站 (old.soomal.cc)](https://old.soomal.cc)。
 
   analytics:
     google:
